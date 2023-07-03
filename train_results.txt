@@ -1,0 +1,6 @@
+Fecha y hora de ejecución: 2023-07-02 21:38:58.623718
+Tiempo de entrenamiento: 0:00:36.487556
+Accuracy: 0.8745008611648337
+Specificity: 0.9928782551088009
+Sensitivity: 0.509218854424657
+ROC-AUC: 0.7510485547667289
